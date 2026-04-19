@@ -1,0 +1,6 @@
+echo /Users/gcrane/github/gorman-trees/public/xml
+fgrep $1 /Users/gcrane/github/gorman-trees/public/xml/*xml
+echo /Users/gcrane/github/pedalion-trees/public/xml
+fgrep $1 /Users/gcrane/github/pedalion-trees/public/xml/*xml
+echo /Users/gcrane/github/gAGDT/data/xml
+fgrep $1 /Users/gcrane/github/gAGDT/data/xml/*xml

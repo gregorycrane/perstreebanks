@@ -1,0 +1,99 @@
+'tlg3135' : 'prose', # Joannes Zonaras
+'tlg0059' : 'prose', # Plato
+'tlg0032' : 'prose', # Xenophon
+'tlg0035' : 'poetry', # Moschus
+'tlg0003' : 'prose', # Thucydides
+'tlg0004' : 'prose', # Diogenes Laertius
+'tlg0058' : 'prose', # Aeneas Tacticus
+'tlg0093' : 'prose', # Theophrastus
+'tlg0060' : 'prose', # Diodorus Siculus
+'tlg1389' : 'prose', # Harpocration, Valerius
+'tlg0638' : 'prose', # Philostratus the Athenian
+'tlg1311' : 'prose', # Didache
+'tlg0033' : 'poetry', # Pindar
+'tlg0525' : 'prose', # Pausanias
+'tlg0719' : 'prose', # Aretaeus of Cappadocia
+'tlg1600' : 'prose', # Philostratus the Lemnian (Philostratus Major)
+'tlg0540' : 'prose', # Lysias
+'tlg0548' : 'prose', # Apollodorus
+'tlg1271' : 'prose', # Clemens Romanus (Clement of Rome)
+'tlg0554' : 'prose', # Chariton
+'tlg0562' : 'prose', # Marcus Aurelius
+'tlg1443' : 'prose', # Ignatius of Antioch
+'tlg1622' : 'prose', # Polycarp
+'tlg1419' : 'prose', # Hermas, 2nd cent.
+'tlg0011' : 'poetry', # Sophocles
+'tlg0016' : 'prose', # Herodotus
+'tlg0020' : 'poetry', # Hesiod
+'tlg0074' : 'prose', # Arrian
+'tlg0019' : 'poetry', # Aristophanes
+'tlg0028' : 'prose', # Antiphon
+'tlg0641' : 'prose', # Xenophon of Ephesus
+'tlg0010' : 'prose', # Isocrates
+'tlg0646' : 'prose', # Pseudo-Justinus Martyr
+'tlg0612' : 'prose', # Dio Chrysostom
+'tlg0086' : 'prose', # Aristotle
+'tlg0031' : 'prose', # New Testament
+'tlg0007' : 'prose', # Plutarch
+'tlg0062' : 'prose', # Lucian
+'tlg0001' : 'poetry', # Apollonius Rhodius
+'tlg0006' : 'poetry', # Euripides
+'tlg4036' : 'prose', # Proclus
+'tlg0008' : 'prose', # Athenaeus
+'tlg0090' : 'prose', # Agathemerus
+'tlg0099' : 'prose', # Strabo
+'tlg0543' : 'prose', # Polybius
+'tlg0527' : 'prose', # Old Testament
+'tlg0560' : 'prose', # Longinus
+'tlg0551' : 'prose', # Appian
+'tlg1484' : 'prose', # Martyrium Polycarpi
+'tlg0557' : 'prose', # Epictetus
+'tlg1216' : 'prose', # Barnabas
+'tlg0561' : 'prose', # Longus
+'tlg0012' : 'poetry', # Homer
+'tlg0023' : 'poetry', # Oppian
+'tlg0085' : 'poetry', # Aeschylus
+'tlg1799' : 'prose', # Euclid
+'tlg0013' : 'poetry', # Perseus Project
+'tlg0014' : 'prose', # Demosthenes
+'tlg0526' : 'prose', # Flavius Josephus
+'tlg0081' : 'prose', # Dionysius of Halicarnassus
+'tlg0284' : 'prose', # Aristides, Aelius
+'tlg4029' : 'prose', # Procopius
+'tlg0385' : 'prose', # Cassius Dio Cocceianus
+'tlg0545' : 'prose', # Aelian
+'tlg7000' : 'prose', # Perseus Project
+'tlg2045' : 'poetry', # Nonnus of Panopolis
+'tlg2003' : 'prose', # Julian the Emperor
+'tlg0627' : 'prose', # Hippocrates
+'tlg2018' : 'prose', # Eusebius of Caesarea
+'tlg2934' : 'prose', # John, of Damascus (attributed author)
+'tlg2040' : 'prose', # Basil, Saint, Bishop of Caesarea
+'tlg2046' : 'prose', # Quintus Smyrnaeus
+'tlg0026' : 'prose', # Aeschines
+'tlg0532' : 'prose', # Achilles Tatius
+'tlg0363' : 'prose', # Claudius Ptolemy
+'tlg0017' : 'prose', # Isaeus
+'tlg0555' : 'prose', # Clement of Alexandria
+'tlg0057' : 'prose', # Galen
+'tlg0094' : 'prose', # Pseudo-Plutarch
+'tlg0005' : 'poetry', # Theocritus
+'tlg0027' : 'prose', # Andocides
+'tlg0533' : 'poetry', # Callimachus
+'tlg0030' : 'prose', # Hyperides
+'tlg0613' : 'prose', # Demetrius of Phaleron (attributed author)
+'tlg0024' : 'poetry', # Oppian of Apamea
+'tlg0029' : 'prose', # Dinarchus
+'tlg0034' : 'prose', # Lycurgus
+'tlg0648' : 'prose', # Onasander
+'tlg0653' : 'poetry', # Aratus Solensis
+'tlg0341' : 'poetry', # Lycophron
+'tlg0652' : 'prose', # Philostratus Minor
+'tlg0556' : 'prose', # Asclepiodotus
+'tlg0655' : 'prose', # Parthenius
+'tlg0199' : 'poetry', # Bacchylides
+'tlg0647' : 'poetry', # Tryphiodorus
+'tlg4091' : 'prose', # Callistratus
+'tlg4081' : 'poetry', # Colluthus
+'tlg0036' : 'poetry', # Bion of Phlossa
+'tlg0535' : 'prose', # Demades
